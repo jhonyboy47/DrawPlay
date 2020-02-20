@@ -1,0 +1,51 @@
+#Daniel Sanchez and Jhonathan Malagon
+#C11A1
+#CSCI 306
+
+commit e8c64ec24507856d88f53ef2c2f3aaccbfc74ee4
+Author: jhonyboy47 <malagon@mymail.mines.edu>
+Date:   Wed Feb 19 21:58:05 2020 -0700
+
+    Changed face color to white and mouth color to red
+
+commit a142930eca53579c1332fc7e3cc37d6f7b63b178
+Author: Daniel Sanchez <sanchez@mines.edu>
+Date:   Wed Feb 19 21:54:18 2020 -0700
+
+    Updated head dimension
+
+commit 8e932abf3731ab7d7ba3958764905110f8079300
+Author: jhonyboy47 <malagon@mymail.mines.edu>
+Date:   Wed Feb 19 21:51:08 2020 -0700
+
+    Doubled the right eyes width
+
+commit e74ab8dacb968f7e57336089930619203eaaea82
+Author: Daniel Sanchez <sanchez@mines.edu>
+Date:   Wed Feb 19 21:43:07 2020 -0700
+
+    Moved the mouth to the right
+
+commit adade425c5d885571da3daa2464f4ff7a323ac7e
+Author: jhonyboy47 <malagon@mymail.mines.edu>
+Date:   Wed Feb 19 21:36:31 2020 -0700
+
+    Changed Meow to WOOF
+
+commit ab3c5d0c1b99056e7209b129fd6439e5a6b44c82
+Author: Daniel Sanchez <sanchez@mines.edu>
+Date:   Wed Feb 19 10:33:09 2020 -0700
+
+    Changed eye color to blue and face color to red
+
+commit 03bee2c06f69752b0154170516aefb3f29f083d8
+Author: jhonyboy47 <malagon@mymail.mines.edu>
+Date:   Mon Feb 17 19:20:42 2020 -0700
+
+    Initial Commit pt2
+
+commit 5ae417bedcb70b27f512749ff9225fec847ab1a1
+Author: jhonyboy47 <57574852+jhonyboy47@users.noreply.github.com>
+Date:   Thu Feb 13 12:12:09 2020 -0700
+
+    Initial commit
