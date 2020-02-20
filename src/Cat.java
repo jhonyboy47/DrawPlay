@@ -6,6 +6,7 @@
  * 1. Daniel - Changed the color of the cat to red, and the eye color to blue
  * 2. Jhon   - Changed what the meow to a woof sound
  * 3. Daniel - Changed the x dimensions of the mouth
+ * 4. Jhon   - Changed the left eye dimension 
  */
 
 import javax.swing.JPanel;
@@ -45,7 +46,7 @@ public class Cat {
 		y = catY + EYE_Y;
 		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
 		x += EYE_SEPARATION;
-		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
+		g2.fillOval(x, y, 40, EYE_HEIGHT);
 		// Draw the mouth
 		g2.setColor(Color.pink);
 		x = catX + MOUTH_X;
