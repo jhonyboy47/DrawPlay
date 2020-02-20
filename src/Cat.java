@@ -7,6 +7,7 @@
  * 2. Jhon   - Changed what the meow to a woof sound
  * 3. Daniel - Changed the x dimensions of the mouth
  * 4. Jhon   - Changed the left eye dimension 
+ * 5. Daniel - Changed the head dimension
  */
 
 import javax.swing.JPanel;
@@ -16,7 +17,7 @@ import java.awt.geom.*;
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
-	private static final int HEAD_DIMENSION = 100;
+	private static final int HEAD_DIMENSION = 250;
 	// eyes will be about 1/4 from top of head and 1/4 from left
 	private static final int EYE_Y = HEAD_DIMENSION/4;
 	private static final int EYE_X = HEAD_DIMENSION/4;
