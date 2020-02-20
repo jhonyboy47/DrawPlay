@@ -8,6 +8,7 @@
  * 3. Daniel - Changed the x dimensions of the mouth
  * 4. Jhon   - Changed the left eye dimension 
  * 5. Daniel - Changed the head dimension
+ * 6. Jhon   - Changed head color to white 
  */
 
 import javax.swing.JPanel;
@@ -39,7 +40,7 @@ public class Cat {
 		int x=catX;
 		int y=catY;
 		// Draw the head
-		g2.setColor(Color.red);
+		g2.setColor(Color.white);
 		g2.fillOval(x, y, HEAD_DIMENSION, HEAD_DIMENSION);
 		// Draw the eyes
 		g2.setColor(Color.blue);
@@ -49,7 +50,7 @@ public class Cat {
 		x += EYE_SEPARATION;
 		g2.fillOval(x, y, 40, EYE_HEIGHT);
 		// Draw the mouth
-		g2.setColor(Color.pink);
+		g2.setColor(Color.red);
 		x = catX + MOUTH_X;
 		y = catY + MOUTH_Y;
 		g2.fillOval(x, y, MOUTH_WIDTH, MOUTH_HEIGHT);
