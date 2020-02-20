@@ -5,6 +5,7 @@
  * Changes Made:
  * 1. Daniel - Changed the color of the cat to red, and the eye color to blue
  * 2. Jhon   - Changed what the meow to a woof sound
+ * 3. Daniel - Changed the x dimensions of the mouth
  */
 
 import javax.swing.JPanel;
@@ -26,7 +27,7 @@ public class Cat {
 	private static final int MOUTH_HEIGHT = 10;
 	private static final int MOUTH_WIDTH = HEAD_DIMENSION/4;
 	// mouth starts about 40% from left edge of head
-	private static final int MOUTH_X = HEAD_DIMENSION/5 * 2;
+	private static final int MOUTH_X = HEAD_DIMENSION/5 * 4;
 	private static final int MOUTH_Y = HEAD_DIMENSION/5 * 3;
 	
 	// draw will render the Cat on the Graphics object
