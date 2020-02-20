@@ -4,7 +4,7 @@
  * 
  * Changes Made:
  * 1. Daniel - Changed the color of the cat to red, and the eye color to blue
- * 
+ * 2. Jhon   - Changed what the meow to a woof sound
  */
 
 import javax.swing.JPanel;
@@ -53,6 +53,6 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
-		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("WOOF", catX, catY+HEAD_DIMENSION+10);	
 	}
 }
